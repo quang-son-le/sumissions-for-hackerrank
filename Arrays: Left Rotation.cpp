@@ -5,7 +5,7 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the rotLeft function below.
-vector<int> rotLeft(vector<int> a, int d) {
+vector<int> rotLeft(vector<int> a, int d) { // i only wrote this function, the main is ineherent to call this function on hacker rank
 vector<int>  b(a.size(),1);
    // cout<<d<<endl;
     for (int i=0; i<a.size();i++)
