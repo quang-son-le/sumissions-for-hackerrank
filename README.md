@@ -19,5 +19,5 @@ https://www.hackerrank.com/challenges/array-left-rotation/problem
 
 4/ Is This a Binary Search Tree?
 
-https://www.hackerrank.com/challenges/is-binary-search-tree/submissions/code/82616927
+https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 
