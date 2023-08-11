@@ -21,3 +21,5 @@ https://www.hackerrank.com/challenges/array-left-rotation/problem
 
 https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 
+5/ array manipulation
+https://www.hackerrank.com/challenges/crush/problem
