@@ -26,6 +26,6 @@ https://www.hackerrank.com/challenges/is-binary-search-tree/problem
 5/ array manipulation
 https://www.hackerrank.com/challenges/crush/problem
 
-6/ Check if a string is balanced: a string is balanced if frequency's distribution of its characters is uniform. 
+6/ Check if a string is balanced: a string is balanced if the frequency distribution of its characters is uniform. 
 
-For example: "abc" is balanced as every chracter has frequency as 1. "abba" is balanced as frequency distribution is uniform, 2. aabc is not balanced 
+For example: "abc" is balanced as every character has frequency as 1. "abba" is balanced as frequency distribution is uniform, 2. "aabc" is not balanced 
